@@ -64,6 +64,7 @@ font-size: .750rem;
     html {
         font-size: 20px;
     }
+    /*뷰포트마다 다른 UI를 처리할때 */
 }
 .only-pc > li{
     margin-left : .5rem;
